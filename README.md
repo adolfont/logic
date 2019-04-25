@@ -1,8 +1,10 @@
 # Logic
 
-**TODO: Add description**
+A library for classical propositional logic
 
 ## Installation
+
+**TODO: **
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `logic` to your list of dependencies in `mix.exs`:
